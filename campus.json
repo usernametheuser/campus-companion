@@ -1,0 +1,24 @@
+{
+  "name": "Sample Institute of Technology",
+  "width": 400,
+  "height": 300,
+  "paths": [
+    "M20 150 H380",
+    "M200 20 V280",
+    "M110 150 V250",
+    "M300 150 V60"
+  ],
+  "places": [
+    { "id": "gate", "name": "Main Gate & Security", "short": "Gate", "type": "service", "x": 170, "y": 262, "w": 60, "h": 30, "desc": "Visitor passes, parcel drop.", "hours": "24×7", "phone": "Ext. 100" },
+    { "id": "admin", "name": "Administrative Block", "short": "Admin", "type": "office", "x": 220, "y": 170, "w": 80, "h": 50, "desc": "Registrar, fees counter, scholarship cell.", "hours": "Mon–Sat 9:30–17:00", "phone": "Ext. 201" },
+    { "id": "blockA", "name": "Academic Block A", "short": "Block A", "type": "academic", "x": 30, "y": 60, "w": 90, "h": 70, "desc": "Rooms A-101 to A-320, Mathematics & Physics departments." },
+    { "id": "blockB", "name": "Academic Block B", "short": "Block B", "type": "academic", "x": 130, "y": 60, "w": 60, "h": 70, "desc": "Rooms B-201 to B-310, CSE & ECE departments." },
+    { "id": "labs", "name": "Labs Complex", "short": "Labs", "type": "academic", "x": 30, "y": 170, "w": 70, "h": 60, "desc": "Lab-1 to Lab-6, embedded systems & networking labs.", "hours": "Mon–Fri 9:00–18:00" },
+    { "id": "library", "name": "Central Library", "short": "Library", "type": "service", "x": 220, "y": 30, "w": 70, "h": 60, "desc": "Reading hall, digital library, book bank.", "hours": "8:00–22:00 (exam weeks)", "phone": "Ext. 310" },
+    { "id": "audi", "name": "Main Auditorium", "short": "Auditorium", "type": "event", "x": 310, "y": 30, "w": 70, "h": 60, "desc": "800 seats. Seminar Halls 1 & 2 on the first floor." },
+    { "id": "canteen", "name": "Canteen & Food Court", "short": "Canteen", "type": "food", "x": 120, "y": 170, "w": 60, "h": 50, "desc": "Lost & found desk at the counter.", "hours": "7:30–20:00" },
+    { "id": "medical", "name": "Health Centre", "short": "Medical", "type": "service", "x": 310, "y": 170, "w": 70, "h": 45, "desc": "First aid, doctor on call.", "hours": "24×7", "phone": "Ext. 999" },
+    { "id": "hostel", "name": "Hostels", "short": "Hostels", "type": "residence", "x": 310, "y": 225, "w": 70, "h": 55, "desc": "Boys' and girls' hostels, warden office." },
+    { "id": "sports", "name": "Sports Ground", "short": "Sports", "type": "event", "x": 30, "y": 245, "w": 130, "h": 45, "desc": "Football, cricket nets, indoor court.", "hours": "6:00–19:00" }
+  ]
+}
